@@ -1,0 +1,172 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "First Article",
+      "summary": "This is the summary of the first article.",
+      "content": "This is the full content of the first article.",
+      "author": "John Doe",
+      "publicationDate": "2022-03-01"
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "summary": "This is the summary of the second article.",
+      "content": "This is the full content of the second article.",
+      "author": "Jane Smith",
+      "publicationDate": "2022-03-02"
+    },
+    {
+      "id": "3",
+      "title": "Third Article",
+      "summary": "This is the summary of the third article.",
+      "content": "This is the full content of the third article.",
+      "author": "Mark Johnson",
+      "publicationDate": "2022-03-03"
+    },
+    {
+      "id": "4",
+      "title": "Fourth Article",
+      "summary": "This is the summary of the fourth article.",
+      "content": "This is the full content of the fourth article.",
+      "author": "Emma Lee",
+      "publicationDate": "2022-03-04"
+    },
+    {
+      "id": "5",
+      "title": "Fifth Article",
+      "summary": "This is the summary of the fifth article.",
+      "content": "This is the full content of the fifth article.",
+      "author": "David Smith",
+      "publicationDate": "2022-03-05"
+    },
+    {
+      "id": "6",
+      "title": "Sixth Article",
+      "summary": "This is the summary of the sixth article.",
+      "content": "This is the full content of the sixth article.",
+      "author": "Linda Chen",
+      "publicationDate": "2022-03-06"
+    },
+    {
+      "id": "7",
+      "title": "Seventh Article",
+      "summary": "This is the summary of the seventh article.",
+      "content": "This is the full content of the seventh article.",
+      "author": "Steven Kim",
+      "publicationDate": "2022-03-07"
+    },
+    {
+      "id": "8",
+      "title": "Eighth Article",
+      "summary": "This is the summary of the eighth article.",
+      "content": "This is the full content of the eighth article.",
+      "author": "Lisa Jones",
+      "publicationDate": "2022-03-08"
+    },
+    {
+      "id": "9",
+      "title": "Ninth Article",
+      "summary": "This is the summary of the ninth article.",
+      "content": "This is the full content of the ninth article.",
+      "author": "Ryan Lee",
+      "publicationDate": "2022-03-09"
+    },
+    {
+      "id": "10",
+      "title": "Tenth Article",
+      "summary": "This is the summary of the tenth article.",
+      "content": "This is the full content of the tenth article.",
+      "author": "Mary Johnson",
+      "publicationDate": "2022-03-10"
+    },
+    {
+      "id": "11",
+      "title": "Eleventh Article",
+      "summary": "This is the summary of the eleventh article.",
+      "content": "This is the full content of the eleventh article",
+      "author": "Alex Brown",
+      "publicationDate": "2022-03-11"
+    },
+    {
+      "id": "12",
+      "title": "Twelfth Article",
+      "summary": "This is the summary of the twelfth article.",
+      "content": "This is the full content of the twelfth article.",
+      "author": "Sophia Johnson",
+      "publicationDate": "2022-03-12"
+    },
+    {
+      "id": "13",
+      "title": "Thirteenth Article",
+      "summary": "This is the summary of the thirteenth article.",
+      "content": "This is the full content of the thirteenth article.",
+      "author": "Daniel Kim",
+      "publicationDate": "2022-03-13"
+    },
+    {
+      "id": "14",
+      "title": "Fourteenth Article",
+      "summary": "This is the summary of the fourteenth article.",
+      "content": "This is the full content of the fourteenth article.",
+      "author": "Emily Chen",
+      "publicationDate": "2022-03-14"
+    },
+    {
+      "id": "15",
+      "title": "Fifteenth Article",
+      "summary": "This is the summary of the fifteenth article.",
+      "content": "This is the full content of the fifteenth article.",
+      "author": "Jason Lee",
+      "publicationDate": "2022-03-15"
+    },
+    {
+      "id": "16",
+      "title": "Sixteenth Article",
+      "summary": "This is the summary of the sixteenth article.",
+      "content": "This is the full content of the sixteenth article.",
+      "author": "Sarah Johnson",
+      "publicationDate": "2022-03-16"
+    },
+    {
+      "id": "17",
+      "title": "Seventeenth Article",
+      "summary": "This is the summary of the seventeenth article.",
+      "content": "This is the full content of the seventeenth article.",
+      "author": "Kevin Smith",
+      "publicationDate": "2022-03-17"
+    },
+    {
+      "id": "18",
+      "title": "Eighteenth Article",
+      "summary": "This is the summary of the eighteenth article.",
+      "content": "This is the full content of the eighteenth article.",
+      "author": "Jasmine Kim",
+      "publicationDate": "2022-03-18"
+    },
+    {
+      "id": "19",
+      "title": "Nineteenth Article",
+      "summary": "This is the summary of the nineteenth article.",
+      "content": "This is the full content of the nineteenth article.",
+      "author": "Michael Lee",
+      "publicationDate": "2022-03-19"
+    },
+    {
+      "id": "20",
+      "title": "Twentieth Article",
+      "summary": "This is the summary of the twentieth article.",
+      "content": "This is the full content of the twentieth article.",
+      "author": "Ashley Johnson",
+      "publicationDate": "2022-03-20"
+    },
+    {
+      "id": "21",
+      "title": "Twenty-first Article",
+      "summary": "This is the summary of the twenty-first article.",
+      "content": "This is the full content of the twenty-first article.",
+      "author": "Robert Kim",
+      "publicationDate": "2022-03-21"
+    }
+  ]
+}
