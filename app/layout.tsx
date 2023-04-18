@@ -19,10 +19,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${monserrat.className}`}>
-        <div className="flex min-h-screen flex-col items-center justify-between p-24">
+      <body className={`${monserrat.className} mx-24 my-12`}>
           {children}
-        </div>
       </body>
     </html>
   )
