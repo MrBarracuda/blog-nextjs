@@ -5,6 +5,6 @@ export type Item = {
   content: string;
   author: string;
   publicationDate: string;
-}
+};
 
 export type Items = Item[];
