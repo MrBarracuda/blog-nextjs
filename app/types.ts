@@ -1,4 +1,4 @@
-export type Item = {
+export type Article = {
   id: string;
   title: string;
   summary: string;
@@ -7,4 +7,4 @@ export type Item = {
   publicationDate: string;
 };
 
-export type Items = Item[];
+export type Articles = Article[];

@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { Item } from "@/app/types";
+import { Article } from "@/app/types";
 
-export default function Article({ title, publicationDate, id, summary }: Item) {
+export default function Article({ title, publicationDate, id, summary }: Article) {
   return (
     <div className="card-compact w-full p-2 md:w-1/2 lg:w-1/3 xl:w-1/4">
       <div className="rounded-md p-2 shadow-md bg-purple-50">

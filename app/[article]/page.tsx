@@ -1,12 +1,11 @@
-import { Item } from "@/app/types";
-import Link from "next/link";
+import { Article } from "@/app/types";
+import { getData } from "@/app/utilities/getData";
 
-export default async function ArticleDetail({ params }: any) {
-  const data = await fetch(
-    "https://blog-app-next-js-json-server-git-main-thebarracuda.vercel.app/articles/" +
-      params.article
-  );
-  const article: Item = await data.json();
+type Params = {
+  article: string;
+};
+export default async function ArticleDetail({ params }: { params: Params }) {
+  const article: Article = await getData(params.article);
 
   const extendedContent =
     article.content +
